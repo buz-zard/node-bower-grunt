@@ -1,1 +1,1 @@
-# node-bower-grunt
+# Node.js w/ Bower & Gulp Dockerfile
